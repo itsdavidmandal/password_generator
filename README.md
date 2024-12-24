@@ -59,8 +59,3 @@ Modify the script to:
 - Add or remove specific characters from the character pools.
 - Change the default prompts or add new functionality as needed.
 
----
-
-## License
-This project is open-source and free to use under the MIT License.
-
